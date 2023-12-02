@@ -12,6 +12,8 @@ This repository contains the HTML file for the official website of HoriSeon, a c
 
 - **Semantic HTML:** The document structure is enhanced with semantic HTML elements for better readability and accessibility.
 - **CSS Styling:** The presentation is improved with a linked CSS file, located in `./assets/css/style.css`.
+- **Responsive Design:** The website is designed to be responsive, ensuring a seamless user experience across various devices and screen sizes.
+
 
 ## Installation
 
@@ -28,6 +30,9 @@ This repository contains the HTML file for the official website of HoriSeon, a c
 
 ## Usage
 Open the index.html file in a web browser to view the HoriSeon website. Navigate through the different sections using the provided links in the navigation menu.
+
+## Deployed Application
+Visit the [deployed HoriSeon website](https://volodymyr-shtyka.github.io/module-1-challenge) to experience the live version.
 
 ## Contributing
 If you find any issues or have suggestions for improvements, please open an issue or submit a pull request. Contributions are welcome!
